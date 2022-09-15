@@ -50,7 +50,7 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 It's super easy! Only 5 steps:
 1) First, download the Agent Template zip file 
 
-Spanish, [click here](https://github.com/eva-library/agent-template-telecom/files/9152321/Agent.Template.Telecom.ESP.v.1.zip)
+Spanish, [click here](https://github.com/eva-library/agent-template-telecom/blob/main/fac751b6-62c3-41a9-9435-eca2c76f1ddc.zip)
 
 Portuguese, [click here](https://github.com/eva-library/agent-template-telecom/files/9152327/Agent.Template.Telecom.PT.v.1.zip)
 
