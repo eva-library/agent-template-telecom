@@ -48,13 +48,13 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 
 ## How to import a bot template
 It's super easy! Only 5 steps:
-1) First, download Agent Template zip file 
-To Spanish, click [Here] [Agent Template Telecom ESP v.1.zip](https://github.com/eva-library/agent-template-telecom/files/9152321/Agent.Template.Telecom.ESP.v.1.zip)
+1) First, download the Agent Template zip file 
 
-To Portuguese, click [Here]
-[Agent Template Telecom PT v.1.zip](https://github.com/eva-library/agent-template-telecom/files/9152327/Agent.Template.Telecom.PT.v.1.zip)
+Spanish, [click here](https://github.com/eva-library/agent-template-telecom/files/9152321/Agent.Template.Telecom.ESP.v.1.zip)
 
-2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
+Portuguese, [click here](https://github.com/eva-library/agent-template-telecom/files/9152327/Agent.Template.Telecom.PT.v.1.zip)
+
+2) Then, click the button "Create a bot" in the Cockpit, and choose "Import" (as shown in the image below)
 
 ![import (1)](https://user-images.githubusercontent.com/95373474/181065887-ee4b3cf9-197f-4a12-9835-1e4b810cbc0a.jpg)
 
@@ -66,7 +66,7 @@ To Portuguese, click [Here]
 
 ![NAME](https://user-images.githubusercontent.com/95373474/181066132-ad4a08d6-1a13-4c0d-bb2b-efdc39d08d93.jpg)
 
-5) Then, ready! Your bot template will be in the bot repository.
+5) Then, ready! Your bot template will be in the virtual agent repository.
 
 ![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
 
