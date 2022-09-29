@@ -72,7 +72,7 @@ Portuguese, [click here](https://github.com/eva-library/agent-template-telecom/f
 ![image](https://user-images.githubusercontent.com/113615214/192916818-a85c56d4-c0ce-49cd-860b-a78d520ebfba.png)
 
 ## Manual
-- Click on this LINK [https://at.docs.eva.bot/telecom-agent-template] to read the agent template manual.
+- [Read the Agent Template manual](https://at.docs.eva.bot/telecom-agent-template) for more information.
 
 ## Copyright
 
