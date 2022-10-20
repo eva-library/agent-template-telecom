@@ -4,7 +4,7 @@ At eva you can use ready to use agent template and just adjust the bot's message
 
 ## Requirements 
 - eva
-- Has eva 3.4 version
+- from eva 3.4 version
 
 ## About Agent Template 
 Agent Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
@@ -51,9 +51,11 @@ It's easy and can be done in just 5 steps:
 
 1) First, download the Agent Template zip file 
 
-Spanish, [click here](https://github.com/eva-library/agent-template-telecom/blob/main/fac751b6-62c3-41a9-9435-eca2c76f1ddc.zip)
+English [click here](https://github.com/eva-library/agent-template-telecom/files/9832898/telecom.eng.zip)
 
-Portuguese, [click here](https://github.com/eva-library/agent-template-telecom/files/9152327/Agent.Template.Telecom.PT.v.1.zip)
+Spanish [click here](https://github.com/eva-library/agent-template-telecom/blob/main/fac751b6-62c3-41a9-9435-eca2c76f1ddc.zip)
+
+Portuguese [click here](https://github.com/eva-library/agent-template-telecom/files/9152327/Agent.Template.Telecom.PT.v.1.zip)
 
 2) Then, go to the cockpit, press the + button to add a new virtual agent, and choose "Import" (as seen below)
 
