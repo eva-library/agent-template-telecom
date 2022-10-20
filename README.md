@@ -53,9 +53,9 @@ It's easy and can be done in just 5 steps:
 
 English [click here](https://github.com/eva-library/agent-template-telecom/files/9832898/telecom.eng.zip)
 
-Spanish [click here](https://github.com/eva-library/agent-template-telecom/blob/main/fac751b6-62c3-41a9-9435-eca2c76f1ddc.zip)
+Spanish [click here](https://github.com/eva-library/agent-template-telecom/files/9832903/telecom.esp.zip)
 
-Portuguese [click here](https://github.com/eva-library/agent-template-telecom/files/9152327/Agent.Template.Telecom.PT.v.1.zip)
+Portuguese [click here](https://github.com/eva-library/agent-template-telecom/files/9832904/telecom.por.zip)
 
 2) Then, go to the cockpit, press the + button to add a new virtual agent, and choose "Import" (as seen below)
 
