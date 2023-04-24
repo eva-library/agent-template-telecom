@@ -1,4 +1,4 @@
-# Agent Template Telecom v 1.0 (spanish and portuguese)
+# Agent Template Telecom
 
 At eva you can use ready to use agent template and just adjust the bot's messages to your needs.
 
